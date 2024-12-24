@@ -2,15 +2,15 @@
 
 Welcome to my GitHub profile! I'm a Data Scientist and AI Enthusiast specializing in Machine Learning, Deep Learning, and Generative AI. I'm passionate about solving complex problems using data and creating impactful solutions for the future.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravjot-singh/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RavjotSingh)
-[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@ravjot_singh)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravjot03/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ravjot03)
+[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://ravjot03.medium.com/)
 
 ---
 
 ## About Me 🤖
 
-I am currently pursuing my **Master's in Data Analytics** at **San Jose State University**, with a focus on machine learning and natural language processing. In addition, I work as a **Data Science Intern** at **Emigrait**, where I help create predictive models for real estate transactions.
+I am currently pursuing my **Master's in Data Science** at **San Jose State University**, with a focus on machine learning and natural language processing.
 
 ### Key Areas of Expertise:
 - Machine Learning & Deep Learning (ANN, CNN, RNN, LSTMs)
@@ -20,15 +20,15 @@ I am currently pursuing my **Master's in Data Analytics** at **San Jose State Un
 - Cloud Computing (AWS, Azure, GCP)
 
 ### Connect with Me:
-- **LinkedIn**: [Ravjot Singh](https://www.linkedin.com/in/ravjot-singh/)
-- **GitHub**: [RavjotSingh](https://github.com/RavjotSingh)
-- **Medium**: [Ravjot's Blog](https://medium.com/@ravjot_singh)
+- **LinkedIn**: [Ravjot Singh](https://www.linkedin.com/in/ravjot03/)
+- **GitHub**: [Ravjot Singh](https://github.com/Ravjot03)
+- **Medium**: [Ravjot's Blog](https://ravjot03.medium.com/)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Ravjot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RavjotSingh&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Ravjot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravjot03&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
@@ -64,12 +64,12 @@ I am currently pursuing my **Master's in Data Analytics** at **San Jose State Un
 - **Languages Used**: Python, SQL
 - **Technologies**: K-means, DBSCAN, Random Forest, XGBoost
 
-### 2. [**Machine Translation Using RNNs**](https://github.com/RavjotSingh/Machine-Translation-Using-RNNs)
-- **Description**: Built an end-to-end machine translation model using RNNs to translate sentences from English to French.
+### 2. [**Text Generation Web Application**](https://github.com/RavjotSingh/Machine-Translation-Using-RNNs)
+- **Description**: This project showcases an AI-Powered Text Generator built using Flask, the Google Gemini model, and the LangChain framework. The app allows users to input text and receive AI-generated content instantly, providing a powerful tool for content creators and innovators in the AI space.
 - **Languages Used**: Python
-- **Technologies**: TensorFlow, Keras, NLTK
+- **Technologies**: LangChain, Flask, Google Gemini Pro 1.5
 
-### 3. [**PDF Query Application with LangChain & ChatGPT**](https://github.com/RavjotSingh/PDF-Query)
+### 3. [**PDF Query Application with LangChain & ChatGPT**](https://github.com/Ravjot03/Query-PDF-using-LangChain)
 - **Description**: Developed a system that allows querying a PDF document using LangChain, ChatGPT, and Google AI API.
 - **Languages Used**: Python
 - **Technologies**: LangChain, OpenAI API, PDF Processing
@@ -78,12 +78,6 @@ I am currently pursuing my **Master's in Data Analytics** at **San Jose State Un
 - **Description**: Built a language translation tool using few-shot learning with LangChain and Hugging Face models.
 - **Languages Used**: Python
 - **Technologies**: LangChain, Hugging Face Transformers
-
----
-
-## 📅 Current Focus
-
-I am currently focusing on improving my **model explainability** skills and building more **predictive models** for various industries. I'm also exploring **large language models** (LLMs) for natural language generation and AI-powered applications.
 
 ---
 
@@ -99,9 +93,9 @@ I am currently focusing on improving my **model explainability** skills and buil
 ## 📣 Let's Connect
 
 Feel free to reach out to me through any of the following platforms:
-- **LinkedIn**: [Ravjot Singh](https://www.linkedin.com/in/ravjot-singh/)
-- **GitHub**: [RavjotSingh](https://github.com/RavjotSingh)
-- **Medium**: [Ravjot's Blog](https://medium.com/@ravjot_singh)
+- **LinkedIn**: [Ravjot Singh](https://www.linkedin.com/in/ravjot03/)
+- **GitHub**: [Ravjot Singh](https://github.com/Ravjot03)
+- **Medium**: [Ravjot's Blog](https://ravjot03.medium.com/)
 
 ---
 
