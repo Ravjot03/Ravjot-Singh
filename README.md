@@ -1,6 +1,6 @@
 # Hello, I'm Ravjot Singh 👋
 
-Welcome to my GitHub profile! I'm a Data Scientist and AI Enthusiast specializing in Machine Learning, Deep Learning, and Generative AI. I'm passionate about solving complex problems using data and creating impactful solutions for the future.
+Welcome to my GitHub profile! I'm a **Data Scientist** with over 3.5 years of experience specializing in **Machine Learning, Deep Learning, and Generative AI**. I'm passionate about solving complex problems using data and creating impactful solutions for the future.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravjot03/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ravjot03)
@@ -10,7 +10,11 @@ Welcome to my GitHub profile! I'm a Data Scientist and AI Enthusiast specializin
 
 ## About Me 🤖
 
-I am currently pursuing my **Master's in Data Science** at **San Jose State University**, with a focus on machine learning and natural language processing.
+My journey into **Data Science and AI** has been fueled by curiosity, problem-solving, and a drive to transform data into meaningful insights. With a strong foundation in **Machine Learning, NLP, and Generative AI**, I have worked on predictive modeling, large-scale data analysis, and AI-powered automation.
+
+Currently, I’m pursuing a **Master’s in Data Analytics** at **San Jose State University (Graduating May 2025)**. My experience spans across startups **(Emigrait, Varidus & Sensegrass)** and industry leaders like **Samsung**, where I have developed end-to-end ML pipelines, optimized models for business applications, and worked on LLMs, LangChain, and AI-driven search systems.
+
+
 
 ### Key Areas of Expertise:
 - Machine Learning & Deep Learning (ANN, CNN, RNN, LSTMs)
